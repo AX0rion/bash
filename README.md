@@ -1,4 +1,4 @@
 # Bash
 
 ## Description
-This repo will be used for my bash scripts
+This is a temporary repo for tests
